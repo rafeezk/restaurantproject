@@ -39,6 +39,9 @@ export const Detail = () => {
                 <h2 className="font-bold text-center p-3 text-2xl">
                     {i.strMeal}
                 </h2>
+                <h2 className="font-bold text-center p-3 text-2xl">
+                    {i.strCategory}
+                </h2>
                 <h3 className="text-center p-1">
                     {i.strTags ? i.strTags.split(",").map((tag) => `#${tag.trim()}`).join(",") : "no tags"}
                 </h3>
