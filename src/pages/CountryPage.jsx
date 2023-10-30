@@ -22,7 +22,7 @@ const CountryPage = () => {
         
         <div className="relative w-full h-[300px] text-center">
           <img
-            src="/public/images/menu1.png"
+            src="public/images/menu1.png"
             alt="Image 1"
             className="w-full h-full object-cover"
           />
@@ -37,7 +37,7 @@ const CountryPage = () => {
 
         <div className="relative w-full h-[300px] text-center">
           <img
-            src="/public/images/menu2.png"
+            src="public/images/menu2.png"
             alt="Image 2"
             className="w-full h-full object-cover"
           />
@@ -51,7 +51,7 @@ const CountryPage = () => {
 
         <div className="relative w-full h-[300px] text-center">
           <img
-            src="/public/images/menu3.png"
+            src="public/images/menu3.png"
             alt="Image 3"
             className="w-full h-full object-cover backdrop-blur-0 hover:opacity-40 transition duration-300"
           />
