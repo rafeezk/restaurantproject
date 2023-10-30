@@ -8,7 +8,7 @@ const CountryList = () => {
 
     const [list, setList] = useState([])
     const [loading, setLoading] = useState(true);
-    const [showMore, setShowMore] = useState(false);
+    // const [showMore, setShowMore] = useState(false);
     const {country} = useParams()
     const location = useLocation()
 

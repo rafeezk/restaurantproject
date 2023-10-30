@@ -2,8 +2,8 @@
   "name": "restaurant-project",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://raavfy azzaqee.github.io/restaurantproject",
   "type": "module",
-  "homepage": "https://rafeezk.github.io/restaurantproject",
   "scripts": {
     "predeploy": "vite build",
     "deploy": "gh-pages -d dist",

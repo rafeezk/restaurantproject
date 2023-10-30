@@ -4,7 +4,7 @@ const AboutPage = () => {
       <>
       <section id="about" className="flex max-lg:flex-col max-lg:px-4 h-screen bg-white p-32">
         <div className="w-1/2 flex justify-center max-lg:w-full">
-          <img src="/images/aboutbg.png" className="w-full object-cover"
+          <img src="/public/images/aboutbg.png" className="w-full object-cover"
         />
         </div>
 
